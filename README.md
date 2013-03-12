@@ -9,11 +9,13 @@ Opisy plików
 ---------------------
 
 Kolejność omawiania/opracowywania:
+
 1. szkielet-html5.html - tak wygląda doctype, załączamy jQuery (+Mobile) z oficjalnego CDN
 2. app-1.html - struktura aplikacji q jQM
 3. app-2.html - przechodzenie między stronami
 4. app-3.html - więcej stron, lista odnośników
 5. app-4.html - style, okno dialogowe
+
 
 Przydatne linki
 ---------------------
