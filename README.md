@@ -15,6 +15,7 @@ Kolejność omawiania/opracowywania:
 3. app-2.html - przechodzenie między stronami
 4. app-3.html - więcej stron, lista odnośników
 5. app-4.html - style, okno dialogowe
+6. app-5.html - treść, którą można ukrywać (collapsible)
 
 
 Przydatne linki
