@@ -19,5 +19,6 @@ Kolejność omawiania/opracowywania:
 
 Przydatne linki
 ---------------------
-[Oficjalna strona jQuery Mobile](http://jquerymobile.com/)
-[Oficjalne API ii UwB](ii.uwb.edu.pl/api/serwis/?/json/)
+
+* [Oficjalna strona jQuery Mobile](http://jquerymobile.com/)
+* [Oficjalne API ii UwB](ii.uwb.edu.pl/api/serwis/?/json/)
